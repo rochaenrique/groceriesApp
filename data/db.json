@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "Butter"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "item": "Red Apples"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "Green Apples"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "Peanut Butter"
+    }
+  ]
+}
